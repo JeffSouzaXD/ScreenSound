@@ -10,7 +10,7 @@ Screen Sound allows users to record information about bands or musical artists, 
     <img align_item ="center" alt = ".Net" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <img align_item ="center" alt = "C#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit"/> 
     <img align_item = "center" alt = "VisualStudio" src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-</div></br>
+</div>
 
 ### How to Use the Project
 To use Screen Sound, follow these steps:
@@ -36,7 +36,7 @@ O Screen Sound permite que os usuários registrem informações sobre bandas ou 
     <img align_item ="center" alt = ".Net" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <img align_item ="center" alt = "C#" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit"/> 
     <img align_item = "center" alt = "VisualStudio" src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-</div></br>
+</div>
 
 ### Como Usar o Projeto
 Para usar o Screen Sound, siga estas etapas:
